@@ -1,9 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <ctime>
-#include <string>
-#include <cstring>
-#include <cstdlib>
+
 using namespace std;
 
 void maxElement(char* array, int size)
